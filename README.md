@@ -28,4 +28,10 @@ Esse projeto visa desenvolver um sistema para analisar e determinar o escaloname
   ```bash
     ./scheduler 
 ```
+* IMPORTANTE: O arquivo "tasks.json" deve estar no meso diretório que o executável.
+
+### Demonstração:
+```bash
+https://youtu.be/srtsqIlVD2o
+```
 
